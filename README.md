@@ -1,9 +1,19 @@
-# Hi, I’m @Elim-J 
-
-- 👀 I’m interested in Frontend programming, React, JS, HTML/CSS and coffee ☕
-- 🌱 I’m currently learning React to build my own personal projects
-- 🎯 My goal on Github is to contribute everyday so that my graph is green!
-- 🤓 I'm always ready to learn anything, but this year, I want to be completely focused on coding
-
-
-
+           __o__                           o               o__ __o                         o               
+             |                            <|>             /v     v\                       <|>              
+            / \                           < >            />       <\                      < \              
+            \o/    o       o       __o__   |           o/               o__ __o      o__ __o/    o__  __o  
+             |    <|>     <|>     />  \    o__/_      <|               /v     v\    /v     |    /v      |> 
+            < >   < >     < >     \o       |           \\             />       <\  />     / \  />      //  
+    \        |     |       |       v\      |             \         /  \         /  \      \o/  \o    o/    
+     o       o     o       o        <\     o              o       o    o       o    o      |    v\  /v __o 
+     <\__ __/>     <\__ __/>   _\o__</     <\__           <\__ __/>    <\__ __/>    <\__  / \    <\/> __/> 
+                                                                                                           
+                                                                                                           
+        __o__      \o/      o           o__ __o/         __o__      \o/      o           o__ __o/                                 
+          |         |      <|>          |      \           |         |      <|>          |      \
+         / \       / \     < \         / \     / \        / \       / \     < \         / \     / \
+         
+         
+         
+           
+     
